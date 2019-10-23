@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main(void)
+int main()
 {
 	long long int n , m = 0, dec = 0, r = 1;
 	int x , y;
